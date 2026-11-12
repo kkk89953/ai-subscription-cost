@@ -1,6 +1,6 @@
 # AI 订阅成本快照 · 2026-11-12
 
-> 自动生成，每天更新。汇率 USD/CNY = **6.6743**（median of 3 source(s) (cache)）
+> 自动生成，每天更新。汇率 USD/CNY = **6.6743**（median of 3 source(s)）
 > 假设：外币卡手续费 1.5%，开卡费 ¥30 按 12 期摊销
 > 实时报价表：https://www.tlsfox.com/pricing/
 

@@ -1,8 +1,8 @@
 {
   "fx": {
     "rate": 6.6743,
-    "source": "median of 3 source(s) (cache)",
-    "fetchedAt": "2026-11-12T14:09:45.817Z",
+    "source": "median of 3 source(s)",
+    "fetchedAt": "2026-11-12T14:25:48.694Z",
     "stale": false
   },
   "assumptions": {
