@@ -1,0 +1,55 @@
+{
+  "name": "ai-subscription-cost",
+  "version": "1.0.0",
+  "description": "AI 订阅成本计算器：ChatGPT Plus / Claude Pro / Gemini / Grok / Cursor 国内真实月成本，按实时汇率折算并对比代充价",
+  "type": "module",
+  "bin": {
+    "ai-cost": "bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "README.md",
+    "README.en.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node bin/cli.js --all",
+    "rate": "node bin/cli.js --rate"
+  },
+  "keywords": [
+    "chatgpt-plus",
+    "claude-pro",
+    "gemini-advanced",
+    "grok",
+    "cursor-pro",
+    "ai-subscription",
+    "subscription-cost",
+    "cost-calculator",
+    "price-comparison",
+    "usd-cny",
+    "exchange-rate",
+    "alipay",
+    "china",
+    "openai",
+    "anthropic",
+    "cli",
+    "pricing",
+    "ai-tools",
+    "llm",
+    "awesome-list"
+  ],
+  "homepage": "https://www.tlsfox.com/pricing/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOURNAME/ai-subscription-cost.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOURNAME/ai-subscription-cost/issues"
+  },
+  "author": "AI代充优选 <support@tlsfox.com> (https://www.tlsfox.com)",
+  "license": "MIT"
+}

@@ -1,0 +1,110 @@
+{
+  "fx": {
+    "rate": 6.6743,
+    "source": "median of 3 source(s) (cache)",
+    "fetchedAt": "2026-11-12T14:09:45.817Z",
+    "stale": false
+  },
+  "assumptions": {
+    "fxFeeRate": 0.015,
+    "issueFeeCny": 30,
+    "amortizeMonths": 12
+  },
+  "plans": [
+    {
+      "id": "chatgpt-plus",
+      "name": "ChatGPT Plus",
+      "officialUsd": 20,
+      "officialCny": 133.486,
+      "cardMonthly": 137.98828999999998,
+      "rechargeCny": 66,
+      "savingPct": 52.16985441300852,
+      "savingCny": 71.98828999999998,
+      "promo": false,
+      "note": "生态最全：Agent、语音、Deep Research 都在一个订阅里"
+    },
+    {
+      "id": "chatgpt-pro",
+      "name": "ChatGPT Pro",
+      "officialUsd": 200,
+      "officialCny": 1334.86,
+      "cardMonthly": 1357.3828999999998,
+      "rechargeCny": 645,
+      "savingPct": 52.48208887853235,
+      "savingCny": 712.3828999999998,
+      "promo": false,
+      "note": "顶配套餐，适合每天高强度跑推理、写代码、做研究"
+    },
+    {
+      "id": "claude-pro",
+      "name": "Claude Pro",
+      "officialUsd": 20,
+      "officialCny": 133.486,
+      "cardMonthly": 137.98828999999998,
+      "rechargeCny": 143,
+      "savingPct": -3.631982105148214,
+      "savingCny": -5.011710000000022,
+      "promo": false,
+      "note": "200K 上下文，长文档与代码场景首选"
+    },
+    {
+      "id": "claude-max",
+      "name": "Claude Max",
+      "officialUsd": 100,
+      "officialCny": 667.43,
+      "cardMonthly": 679.9414499999999,
+      "rechargeCny": 863,
+      "savingPct": -26.922693123062302,
+      "savingCny": -183.05855000000008,
+      "promo": false,
+      "note": "官方分 5x（$100）与 20x（$200）两档，此处按 5x 计"
+    },
+    {
+      "id": "gemini-advanced",
+      "name": "Gemini Advanced",
+      "officialUsd": 19.99,
+      "officialCny": 133.419257,
+      "cardMonthly": 137.92054585499997,
+      "rechargeCny": 8.8,
+      "savingPct": 93.61951481162805,
+      "savingCny": 129.12054585499996,
+      "promo": true,
+      "note": "含 2TB Google One 空间与 NotebookLM Plus；¥8.8 为活动起售价，非稳定月付价"
+    },
+    {
+      "id": "grok",
+      "name": "Grok 会员",
+      "officialUsd": 30,
+      "officialCny": 200.22899999999998,
+      "cardMonthly": 205.73243499999995,
+      "rechargeCny": 253,
+      "savingPct": -22.97526153326288,
+      "savingCny": -47.26756500000005,
+      "promo": false,
+      "note": "接 X 实时数据流；X Premium+ 官方为 $40/月，此处按 SuperGrok $30 计"
+    },
+    {
+      "id": "cursor-pro",
+      "name": "Cursor Pro",
+      "officialUsd": 20,
+      "officialCny": 133.486,
+      "cardMonthly": 137.98828999999998,
+      "rechargeCny": 121,
+      "savingPct": 12.31139975718228,
+      "savingCny": 16.988289999999978,
+      "promo": false,
+      "note": "把 Claude / GPT 塞进编辑器的 AI IDE，500 次快速请求"
+    },
+    {
+      "id": "api-credit",
+      "name": "API 额度",
+      "officialUsd": null,
+      "officialCny": null,
+      "cardMonthly": null,
+      "rechargeCny": 50,
+      "savingPct": null,
+      "savingCny": null,
+      "note": "按量计费，给官方 API 账户充余额，不改 key、不换 base_url"
+    }
+  ]
+}
